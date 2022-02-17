@@ -1,0 +1,21 @@
+            {
+                "acrylicOpacity": 0.80000000000000004,
+                "backgroundImage": null,
+                "backgroundImageAlignment": "center",
+                "backgroundImageOpacity": 0.10000000000000001,
+                "colorScheme": "xcad_hackthebox",
+                "commandline": "wsl.exe -d Ubuntu-20.04",
+                "font": 
+                {
+                    "face": "JetBrainsMonoMedium Nerd Font",
+                    "size": 11,
+                    "weight": "semi-bold"
+                },
+                "guid": "{292d4380-b40a-495e-a666-5d17e5c16b58}",
+                "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
+                "name": "Ubuntu-20.04",
+                "padding": "10",
+                "scrollbarState": "hidden",
+                "startingDirectory": "%USERPROFILE%",
+                "useAcrylic": true
+            }
