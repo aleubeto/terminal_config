@@ -1,0 +1,5 @@
+# alias personalizados
+alias codesignal='cd /mnt/g/"mi unidad"/codearcade; code .' 
+alias plusultra='echo -e "\nSupera el límite...\n  ____   __      __  __   _____  \n |  _ \ |  |    |  ||  | /  ___> \n |  __/ |  |__  |  ╶╴  | \___  \ \n |__|   |_____|  \____/  <_____/ \n  __  __   __     ______   _____    _____  \n |  ||  | |  |   |_    _| |  _  \  /  _  \ \n |  ╶╴  | |  |__   |  |   |     /  |  _  | \n  \____/  |_____|  |__|   |__|__\  \_/ \_/ \n" | lolcat' 
+alias gitlog='git log --all --graph --decorate --oneline'
+alias tec='cd /mnt/g/"mi unidad"/"folder electrónico"'
